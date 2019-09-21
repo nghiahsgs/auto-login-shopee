@@ -1,0 +1,21 @@
+------WebKitFormBoundary_nghiahsgs
+Content-Disposition: form-data; name="login_key"
+
+usernameLogin
+------WebKitFormBoundary_nghiahsgs
+Content-Disposition: form-data; name="login_type"
+
+phone
+------WebKitFormBoundary_nghiahsgs
+Content-Disposition: form-data; name="password_hash"
+
+passLogin
+------WebKitFormBoundary_nghiahsgs
+Content-Disposition: form-data; name="captcha"
+
+
+------WebKitFormBoundary_nghiahsgs
+Content-Disposition: form-data; name="remember_me"
+
+false
+------WebKitFormBoundary_nghiahsgs--
